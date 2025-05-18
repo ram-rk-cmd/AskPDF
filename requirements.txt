@@ -1,0 +1,19 @@
+# Core app framework
+streamlit==1.45.1
+
+# Vector database
+chromadb==0.4.24
+
+# LangChain framework and integrations
+langchain==0.1.17
+langchain-community==0.0.36
+
+# Local LLM interface (Ollama)
+ollama==0.1.7  # Python client to talk to Ollama server
+
+# PDF processing
+PyMuPDF==1.23.24
+
+# Embeddings & model scoring
+sentence-transformers==2.6.1
+cross-encoder==0.1.6
