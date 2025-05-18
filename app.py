@@ -1,6 +1,7 @@
 import os
 import tempfile
-
+import os
+os.system("pip install chromadb")
 import chromadb
 import ollama
 import streamlit as st
